@@ -105,4 +105,8 @@ footer {
     margin-top: 2rem;
     font-size: 1.4rem;
 }
-    
+    @media (max-width: 560px) {
+    body {
+        background: url('img/mobile.low-end');}
+        
+    }    
