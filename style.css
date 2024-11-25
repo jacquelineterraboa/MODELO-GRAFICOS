@@ -22,6 +22,10 @@ header {
 }
 
 h1 {
+    @media (max-width: 560px) {
+    body {
+        background: url('img/mobile.low-en)}
+    }
     font-size: 2rem;
     color: var(--bg-color);
     font-weight: 700;
